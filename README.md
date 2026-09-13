@@ -15,3 +15,7 @@ So far, the platform has reached:
 - 4,000+ hours studied
 
 I'm continuing to improve Prepzy while exploring new projects in software engineering and applied AI.
+
+![Prepzy Landing Page view](assets/Prepzy Landing Page.png)
+
+![Prepzy Hub](assets/Prepzy Hub Page.png)
