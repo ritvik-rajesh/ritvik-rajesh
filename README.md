@@ -1,11 +1,17 @@
 # Hi, I'm Ritvik Rajesh 👋
 
-I'm a computer science student at The University of Texas at Austin and the builder of [Prepzy](https://prepzy.app), a free digital SAT learning platform.
+I'm a Computer Science student at The University of Texas at Austin interested in software engineering, AI, and building products people actually use.
 
-Prepzy helps students prepare with:
+I'm the founder and developer of [Prepzy](https://prepzy.app), a free SAT learning platform built to make high-quality test prep more accessible.
 
-- 250,000+ practice questions
-- Full-length digital SAT practice tests
-- Personalized study plans and progress tracking
+## Prepzy
 
-Prepzy has reached 2,300+ students, and I'm continuing to build tools that make high-quality SAT prep more accessible, practical, and engaging.
+Prepzy includes thousands of SAT practice questions, full-length digital practice tests, progress tracking, and adaptive study plans that adjust to how students are learning.
+
+So far, the platform has reached:
+
+- 2,300+ students
+- 250K+ questions answered
+- 4,000+ hours studied
+
+I'm continuing to improve Prepzy while exploring new projects in software engineering and applied AI.
