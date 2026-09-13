@@ -10,9 +10,9 @@ Prepzy includes thousands of SAT practice questions, full-length digital practic
 
 So far, the platform has reached:
 
-- 2,300+ students
-- 250K+ questions answered
-- 4,000+ hours studied
+- 2,500+ students
+- 300K+ questions answered
+- 6,000+ hours studied
 
 I'm continuing to improve Prepzy while exploring new projects in software engineering and applied AI.
 
