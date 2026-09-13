@@ -17,7 +17,3 @@ So far, the platform has reached:
 I'm continuing to improve Prepzy while exploring new projects in software engineering and applied AI.
 
 ![Prepzy Landing Page view](./Prepzy%20Landing%20Page.png)
-
-![Prepzy Hub](./Prepzy%20Hub%20Page.png)
-
-![Prepzy Question Page](./Prepzy%20Question%20Page.png)
